@@ -1,4 +1,4 @@
-# [Timer](https://mkaell.github.io/vertical-slider/)
+# [Vertical-slider](https://mkaell.github.io/vertical-slider/)
 
 ### _Application functionality:_ 
 This simple but beautiful slider switches slides by buttons on the page, and it is also possible to switch on the keyboard using: 'ArrowUp' and 'ArrowDown.
